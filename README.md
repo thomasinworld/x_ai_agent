@@ -1,4 +1,4 @@
-# 🎭 Baggy Moonz - Twitter AI Agent
+# 🎭 Baggy Moonz - X AI Agent
 
 Test account: https://x.com/baggymoonz/with_replies
 
