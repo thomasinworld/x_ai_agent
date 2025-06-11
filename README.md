@@ -1,5 +1,7 @@
 # 🎭 Baggy Moonz - Twitter AI Agent
 
+Test account: https://x.com/baggymoonz/with_replies
+
 A sophisticated, AI-powered Twitter bot that engages naturally across diverse topics with humor and personality. Built with browser automation for reliability and no API dependencies.
 
 ## 🌟 What Makes This Bot Special
